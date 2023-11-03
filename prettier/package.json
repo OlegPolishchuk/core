@@ -1,0 +1,23 @@
+{
+  "name": "@polishchuk_oleg/prettier",
+  "version": "1.0.0",
+  "description": "prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Polishchuk Oleg",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^3.0.3"
+  },
+  "peerDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
