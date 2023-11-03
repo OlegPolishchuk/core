@@ -2,6 +2,9 @@
   "name": "@polishchuk_oleg/prettier",
   "version": "1.0.0",
   "description": "prettier config",
+  "homepage": "https://github.com/OlegPolishchuk/core",
+  "repository": "https://github.com/OlegPolishchuk/core",
+  "files": [".prettierrc.js"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
