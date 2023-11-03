@@ -1,10 +1,10 @@
 {
   "name": "@oleg_polishchuk/stylelint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stylelint config",
   "homepage": "https://github.com/OlegPolishchuk/core",
   "repository": "https://github.com/OlegPolishchuk/core",
-  "files": [".stylelint.js"],
+  "files": [".stylelintrc.js"],
   "main": "index.js",
   "keywords": [
     "stylelint"
